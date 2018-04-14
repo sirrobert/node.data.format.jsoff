@@ -1,0 +1,16 @@
+{
+  "name": "@sirrobert/node.data.format.jsoff",
+  "version": "1.1.0",
+  "description": "The JavaScript Object-Function Format.  A drop-in replacement for JSON that supports functions.",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha ./test/"
+  },
+  "devDependencies": {
+    "mocha": "^5.1.0",
+    "unexpected": "^10.37.4"
+  },
+  "main": "index.js",
+  "author": "Sir Robert Burbridge <sirrobert@gmail.com>",
+  "license": "MIT",
+  "repository": "git@github.com:sirrobert/node.data.format.jsoff.git"
+}
